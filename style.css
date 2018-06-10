@@ -41,4 +41,5 @@ input[type=range] {
   font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   color: ghostwhite;
+  margin: 0px 20px 0px 10px;
 }
