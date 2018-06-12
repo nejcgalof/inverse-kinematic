@@ -1,17 +1,3 @@
-svg {
-  position: relative;
-  border: solid 1px black;
-}
-
-/* Gripper */
-.draggable {
-  cursor: move;
-  stroke: #252525; /* background colour */
-  stroke-width: 5px;
-  fill: white;
-}
-
-/* Slider */
 input[type=range]:focus {
   outline: none;
 }
